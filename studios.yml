@@ -1,0 +1,53 @@
+---
+- name: A-1 Pictures
+  imageName: A-1_Logo.png
+- name: Madhouse
+  imageName: Madhouse_studio_logo.png
+- name: J.C.STAFF
+  imageName: J.C.Staff_Logo.png
+- name: Sunrise
+  imageName: sunrise.jpg
+- name: Bandai Namco Pictures
+  imageName: Bandai_Namco_logo.png
+- name: Wit Studio
+  imageName: Wit_studio.png
+- name: EMT squared
+  imageName: EMT_Squared_logo.gif
+- name: Feel
+  imageName: feel.png
+- name: Studio Pierrot
+  imageName: Studio_Pierrot_logo.png
+- name: Studio Deen
+  imageName: Studio_Deen_logo.png
+- name: Bones
+  imageName: Bones_logo.png
+- name: Manglobe
+  imageName: manglobe.png
+- name: CloverWorks
+  imageName: CloverWorks_Logo.png
+- name: Silver Link
+  imageName: Silver_Link_Logo.png
+- name: Studio Colorido
+  imageName: Studio_Colorido.png
+- name: Lapin Track
+  imageName: Lapin_Track_Logo.png
+- name: NAZ
+  imageName: Naz_Logo.png
+- name: Science Saru
+  imageName: Science_SARU_logo.png
+- name: Ashi Productions
+  imageName: Ashi_Productions.png
+- name: Studio 4°С
+  imageName: Studio_4°С.gif
+- name: Production I.G
+  imageName: Production_I.G_Logo.png
+- name: MAPPA
+  imageName: MAPPA_Logo.svg.png
+- name: Brain"s Base
+  imageName: Brains_Base_logo.svg.png
+- name: Drive
+  imageName: Drive_Studio_Logo.png
+- name: Toho
+  imageName: Toho_Logo.svg.jpg
+- name: Shaft
+  imageName: Shaft.png
