@@ -1,6 +1,9 @@
-import requests
+import requests, shutil, yaml, re
 from pprint import pprint
-import yaml
+
+def create_url(url_str):
+    return re.sub('[^0-9a-zA-Z]+', '_', url_str)
+
 
 session = requests.Session()
 
@@ -32,5 +35,30 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleW
 
 r = session.post('https://shikimori.one/api/graphql', headers=headers, json=data)
 
+data = []
+
 for anime in r.json()['data']['animes']:
-    print(f"{anime['russian']}\n\t{anime['english']}")
+    if anime['english'] == None:
+        continue
+    data.append({
+        'url_name': create_url(anime['english']),
+        'name': anime['russian'],
+        'trailer': None,
+        'releaseYear': anime['airedOn']['year'],
+        'review': anime['score'],
+        'description': anime['description'],
+        'portraitImgName': anime['poster']['originalUrl'],
+        'studios': [studio['name'] for studio in anime['studios']],
+        'typeName': anime['kind'],
+        'franchise': anime['franchise'],
+        'genres': [genre['russian'] for genre in anime['genres']]
+    })
+    r = requests.get(anime['poster']['originalUrl'], stream=True)
+    if r.status_code == 200:
+        with open('test.jpg', 'wb') as f:
+            r.raw.decode_content = True
+            shutil.copyfileobj(r.raw, f)
+
+
+
+pprint(data)
