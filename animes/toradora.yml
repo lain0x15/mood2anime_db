@@ -1,0 +1,32 @@
+-
+  url_name: Toradora
+  name: Тора дора
+  trailer: https://www.youtube.com/embed/ya570uUgQNc?si=S-rwaF8fCds3KkD1
+  releaseYear: '2008-01-01'
+  review: 8.05
+  description: >-
+    Семнадцатилетний парень Рюдзи, которого все боятся из-за страшного взгляда, влюбляется в одноклассницу Минори, а его соседка Тайга влюбляется в Китамару. Они решают объединить свои усилия, но может быть они просто не в тех влюбились?
+  portraitImgName: toradora.jpg
+  studios:
+    - J.C.STAFF
+  typeName: Сериал
+  franchise: Toradora
+  genres:
+    - Комедия
+    - Романтика
+    - Повседневность
+-
+  url_name: Toradora_Special
+  name: Торадора! Секрет приготовления бэнто
+  trailer: https://www.youtube.com/embed/ya570uUgQNc?si=S-rwaF8fCds3KkD1
+  releaseYear: '2011-01-01'
+  review: 7.43
+  description: 'Дополнительный эпизод аниме-сериала «Торадора!», вышедший в комплекте с рождественским Blu-Ray бокс-сетом. Эпизод начинается с того, что Юсаку Китамура приносит в класс огромный и аппетитный бэнто...'
+  portraitImgName: Toradora_Special.jpeg
+  studios:
+    - J.C.STAFF
+  typeName: Спецвыпуск
+  franchise: Toradora
+  genres:
+    - Комедия
+    - Школа
