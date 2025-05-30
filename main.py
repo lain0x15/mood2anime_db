@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "gintama", kind: "!special", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "gintama", order: aired_on) {
             russian
             english
             name
