@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "gintama", kind: "!special", order: aired_on) {
+        animes(limit: 1, page: 1, franchise: "gintama", kind: "!special", order: aired_on) {
             russian
             english
             name
@@ -40,6 +40,13 @@ data = []
 for anime in r.json()['data']['animes']:
     if anime['english'] == None:
         continue
+
+    portraitImgName = f"{create_url(anime['english'])}{anime['poster']['originalUrl'][anime['poster']['originalUrl'].rfind('.'):]}"
+    r = requests.get(anime['poster']['originalUrl'], stream=True)
+    if r.status_code == 200:
+        with open(f'animes/portraitImage/{portraitImgName}', 'wb') as f:
+            r.raw.decode_content = True
+            shutil.copyfileobj(r.raw, f)
     data.append({
         'url_name': create_url(anime['english']),
         'name': anime['russian'],
@@ -47,18 +54,12 @@ for anime in r.json()['data']['animes']:
         'releaseYear': anime['airedOn']['year'],
         'review': anime['score'],
         'description': anime['description'],
-        'portraitImgName': anime['poster']['originalUrl'],
+        'portraitImgName': portraitImgName,
         'studios': [studio['name'] for studio in anime['studios']],
         'typeName': anime['kind'],
         'franchise': anime['franchise'],
         'genres': [genre['russian'] for genre in anime['genres']]
     })
-    r = requests.get(anime['poster']['originalUrl'], stream=True)
-    if r.status_code == 200:
-        with open('test.jpg', 'wb') as f:
-            r.raw.decode_content = True
-            shutil.copyfileobj(r.raw, f)
 
-
-
-pprint(data)
+with open('test.yaml', 'w', encoding='utf-8') as file:
+    yaml.dump(data, file, allow_unicode=True)
