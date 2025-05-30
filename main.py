@@ -11,13 +11,13 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 1, page: 1, franchise: "gintama", kind: "!special", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "gintama", kind: "!special", order: aired_on) {
             russian
             english
             name
 
-            airedOn {year}
-            releasedOn {year}
+            airedOn { year }
+            releasedOn { year }
             score
             description
             poster { originalUrl }
@@ -25,6 +25,7 @@ data={
             kind
             franchise
             genres { russian }
+            screenshots { originalUrl }
         }
   }'''
 }
