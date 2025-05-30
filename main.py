@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "toradora", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "wanwan_train_doko_e_iku", order: aired_on) {
             russian
             english
             name
