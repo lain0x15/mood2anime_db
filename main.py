@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "my_oni_girl", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "yahari_ore_no_seishun_love_comedy_wa_machigatteiru", order: aired_on) {
             russian
             english
             name

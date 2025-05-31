@@ -35,24 +35,6 @@
     - Комедия
     - Повседневность
 -
-    url_name: My_Teen_Romantic_Comedy_SNAFU
-    name: Как и ожидалось, моя школьная романтическая жизнь не удалась
-    trailer: https://www.youtube.com/embed/u-bpwWPNEpE?si=_rbaZyje3L5Ay7ru
-    releaseYear: '2013-01-01'
-    review: 8
-    description: >-
-      Хачиман Хикигая семнадцать лет. Это самый яркий представитель пессимистически настроенных людей, он уверен в том, что дружба, любовь и преданность – это самая наглая ложь, а поддержание этой теории - всего лишь договоренность тех, кто однажды ошибся, но признавать этого просто не хочет.
-    portraitImgName: MyYouthRomanticComedyIsWrong.jpg
-    studios:
-      - Brain"s Base
-      - Feel
-    typeName: Сериал
-    franchise: My_Teen_Romantic_Comedy_SNAFU
-    genres:
-    - Романтика
-    - Комедия
-    - Повседневность
--
     url_name: Great_Teacher_Onizuka
     name: Крутой учитель Онидзука
     trailer: https://www.youtube.com/embed/aZcEfuNsyKM?si=TjHL6Z1TDCM37wFv
