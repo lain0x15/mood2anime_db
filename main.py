@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "yahari_ore_no_seishun_love_comedy_wa_machigatteiru", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "konosuba", order: aired_on) {
             russian
             english
             name
@@ -48,6 +48,9 @@ for anime in r.json()['data']['animes']:
         with open(f'animes/portraitImage/{portraitImgName}', 'wb') as f:
             r.raw.decode_content = True
             shutil.copyfileobj(r.raw, f)
+    else:
+        print(anime['poster']['originalUrl'])
+        print(r.status_code)
     data.append({
         'url_name': create_url(anime['english']),
         'name': anime['russian'],
