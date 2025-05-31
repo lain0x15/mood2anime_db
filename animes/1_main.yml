@@ -89,24 +89,6 @@
     - Экшен
     - Исторический
 -
-    url_name: Vinland_Saga
-    name: Сага о Винланде
-    trailer: https://www.youtube.com/embed/Vt7Rwfj7bHU?si=TM8Us0daoqP0lSzB
-    releaseYear: '2019-01-01'
-    review: 8.77
-    description: >-
-      Времена господства викингов. Людей, известных своими жестокими обычаями. Торфинн — сын одного из величайших викингов. Вот только вырос мальчик без отца, так как тот погиб на поле боя. Желая отомстить, Торфинн поклялся убить виновного, однако юноше ещё только предстоит овладеть искусством боя.
-    portraitImgName: Vinland_Saga.jpg
-    studios:
-      - Wit Studio
-      - MAPPA
-    typeName: Сериал
-    franchise: Vinland_Saga
-    genres:
-    - Приключения
-    - Драма
-    - Боевик
--
     url_name: My_Dress-Up_Darling
     name: Эта фарфоровая кукла влюбилась
     trailer: https://www.youtube.com/embed/BqrwazH7PhU?si=zIVF2sLdSH0AUyoM

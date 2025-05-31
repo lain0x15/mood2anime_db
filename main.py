@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "konosuba", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "vinland_saga", order: aired_on) {
             russian
             english
             name
