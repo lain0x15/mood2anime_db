@@ -53,24 +53,6 @@
     - Драма
     - Сёнэн
 -
-    url_name: Noragami
-    name: Бездомный Бог
-    trailer: https://www.youtube.com/embed/gEVlI1ZLpFI?si=LcDCmQhEGTKVWLIg
-    releaseYear: '2014-01-01'
-    review: 7.94
-    description: >-
-      Малоизвестный Бог Ято не имеет собственного храма, но мечтает стать уважаемым божеством с миллионами верующих. Правда, Ято не особо стремится прилагать усилия для достижения данной цели. Однажды обычная школьница Хиёри спасает его от дорожной аварии ценой собственной жизни.
-    portraitImgName: Noragami.jpg
-    studios:
-      - Bones
-    typeName: Сериал
-    franchise: Noragami
-    genres:
-    - Комедия
-    - Приключения
-    - Сёнэн
-    - Экшен
--
     url_name: Samurai_Champloo
     name: Самурай Чамплу
     trailer: https://www.youtube.com/embed/xWKzbhAUeZE?si=jBDl85ajITJcFQL9

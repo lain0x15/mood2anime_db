@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "vinland_saga", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "noraneko", order: aired_on) {
             russian
             english
             name
