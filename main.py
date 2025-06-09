@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "noraneko", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "great_pretender", order: aired_on) {
             russian
             english
             name
@@ -39,10 +39,7 @@ r = session.post('https://shikimori.one/api/graphql', headers=headers, json=data
 data = []
 
 for anime in r.json()['data']['animes']:
-    if anime['english'] == None:
-        continue
-
-    portraitImgName = f"{create_url(anime['english'])}{anime['poster']['originalUrl'][anime['poster']['originalUrl'].rfind('.'):]}"
+    portraitImgName = f"{create_url(anime['name'])}{anime['poster']['originalUrl'][anime['poster']['originalUrl'].rfind('.'):]}"
     r = requests.get(anime['poster']['originalUrl'], stream=True)
     if r.status_code == 200:
         with open(f'animes/portraitImage/{portraitImgName}', 'wb') as f:
@@ -52,7 +49,7 @@ for anime in r.json()['data']['animes']:
         print(anime['poster']['originalUrl'])
         print(r.status_code)
     data.append({
-        'url_name': create_url(anime['english']),
+        'url_name': create_url(anime['name']),
         'name': anime['russian'],
         'trailer': None,
         'releaseYear': anime['airedOn']['year'],
