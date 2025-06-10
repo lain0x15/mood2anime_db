@@ -11,7 +11,7 @@ data={
   "operationName": None,
   "variables": {},
   "query": '''{
-        animes(limit: 60, page: 1, franchise: "great_pretender", order: aired_on) {
+        animes(limit: 60, page: 1, franchise: "yuukoku_no_moriarty", order: aired_on) {
             russian
             english
             name
