@@ -1,6 +1,6 @@
-import requests, shutil, yaml, re
+import requests, shutil, yaml, re, time
 from pprint import pprint
-import time
+from datetime import datetime
 
 def create_url(url_str):
     return re.sub('[^0-9a-zA-Z]+', '_', url_str)
@@ -86,7 +86,7 @@ for anime in r.json()['data']['animes']:
     data.append({
         'url_name': create_url(anime['name']),
         'name': anime['russian'],
-        'releaseYear': anime['airedOn']['year'],
+        'releaseYear': datetime(anime['airedOn']['year'], 1, 1, 0, 0, 0),
         'review': anime['score'],
         'description': anime['description'],
         'portraitImgName': portraitImgName,
