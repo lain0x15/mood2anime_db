@@ -30,6 +30,15 @@ data={
             franchise
             genres { russian }
             screenshots { originalUrl }
+            characterRoles {
+                rolesRu
+                character {
+                    name
+                    russian
+                    description
+                    poster {originalUrl}
+                }
+            }
         }
   }'''
 }
@@ -62,16 +71,27 @@ for anime in r.json()['data']['animes']:
         else:
             print(screenshot['originalUrl'])
             print(r.status_code)
+
+    type_handler={
+        'tv': 'Сериал',
+        'movie': 'Фильм',
+        'ova': 'OVA',
+        'ona': 'ONA',
+        'special': 'Спецвыпуск',
+        'tv_special': 'TV Спецвыпуск',
+        'music': 'Клип',
+        'pv': 'Проморолик',
+        'cm': 'Реклама'
+    }
     data.append({
         'url_name': create_url(anime['name']),
         'name': anime['russian'],
-        'trailer': None,
         'releaseYear': anime['airedOn']['year'],
         'review': anime['score'],
         'description': anime['description'],
         'portraitImgName': portraitImgName,
         'studios': [studio['name'] for studio in anime['studios']],
-        'typeName': anime['kind'],
+        'typeName': type_handler[anime['kind']],
         'franchise': anime['franchise'],
         'genres': [genre['russian'] for genre in anime['genres']],
         'screenshots': [
