@@ -1,9 +1,13 @@
 import requests, shutil, yaml, re
 from pprint import pprint
+import time
 
 def create_url(url_str):
     return re.sub('[^0-9a-zA-Z]+', '_', url_str)
 
+def send_request(*args, **kwargs):
+    time.sleep(10)
+    return requests.get(*args, **kwargs)
 
 session = requests.Session()
 
@@ -40,7 +44,7 @@ data = []
 
 for anime in r.json()['data']['animes']:
     portraitImgName = f"{create_url(anime['name'])}{anime['poster']['originalUrl'][anime['poster']['originalUrl'].rfind('.'):]}"
-    r = requests.get(anime['poster']['originalUrl'], stream=True)
+    r = session.get(anime['poster']['originalUrl'], headers=headers, stream=True)
     if r.status_code == 200:
         with open(f'animes/portraitImage/{portraitImgName}', 'wb') as f:
             r.raw.decode_content = True
@@ -48,6 +52,16 @@ for anime in r.json()['data']['animes']:
     else:
         print(anime['poster']['originalUrl'])
         print(r.status_code)
+    for idx, screenshot in enumerate(anime['screenshots']):
+        r = session.get(screenshot['originalUrl'], headers=headers, stream=True)
+        if r.status_code == 200:
+            file_extention = f"{screenshot['originalUrl'][screenshot['originalUrl'].rfind('.'):screenshot['originalUrl'].rfind('?')]}"
+            with open(f'animes/screenshots/{create_url(anime['name'])}_{idx}{file_extention}', 'wb') as f:
+                r.raw.decode_content = True
+                shutil.copyfileobj(r.raw, f)
+        else:
+            print(screenshot['originalUrl'])
+            print(r.status_code)
     data.append({
         'url_name': create_url(anime['name']),
         'name': anime['russian'],
@@ -59,7 +73,10 @@ for anime in r.json()['data']['animes']:
         'studios': [studio['name'] for studio in anime['studios']],
         'typeName': anime['kind'],
         'franchise': anime['franchise'],
-        'genres': [genre['russian'] for genre in anime['genres']]
+        'genres': [genre['russian'] for genre in anime['genres']],
+        'screenshots': [
+            f"{create_url(anime['name'])}_{idx}{screenshot['originalUrl'][screenshot['originalUrl'].rfind('.'):screenshot['originalUrl'].rfind('?')]}" for idx, screenshot in enumerate(anime['screenshots'])
+        ]
     })
 
 with open('test.yaml', 'w', encoding='utf-8') as file:
