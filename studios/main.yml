@@ -11,7 +11,7 @@
   imageName: Bandai_Namco_logo.png
 - name: Wit Studio
   imageName: Wit_studio.png
-- name: EMT squared
+- name: EMT Squared
   imageName: EMT_Squared_logo.gif
 - name: Feel
   imageName: feel.png
@@ -53,3 +53,7 @@
   imageName: Shaft.png
 - name: Doga Kobo
   imageName: Doga_Kobo.png
+- name: Rabbit Machine
+  imageName: Rabbit_Machine.webp
+- name: Studio Moriken
+  imageName: Studio_Moriken.png

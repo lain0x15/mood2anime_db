@@ -1,19 +1,10 @@
-- description: ''
-  episodes: null
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Комедия
-  name: 'Гинтама: 3-Z класс Гинпачи-сэнсэя'
-  portraitImgName: 3_nen_Z_gumi_Ginpachi_sensei.jpeg
-  releaseYear: 2025-01-01 00:00:00
-  review: 0.0
-  screenshots: []
-  studios:
-  - Bandai Namco Pictures
-  typeName: Сериал
-  url_name: 3_nen_Z_gumi_Ginpachi_sensei_db4ac
-- description: ''
+- description: Спешл-эпизод, включающий в себя несколько коротких комедийных историй,
+    происходящих с Сакатой Гинтоки и его нищими (впрочем, как и он сам) напарниками
+    - Шинпачи и Кагурой. Однажды весной, Гинтоки со своими друзьями отправляются любоваться
+    цветением сакуры. Однако, оказавшись на месте, они сталкиваются с Шинсенгуми,
+    заявляющими, что Гинтоки хочет занять выбранное ими место для наблюдения за сакурой.
+    Теперь, чтобы занять желаемое место, команде Гинтоки и Шинсенгуми предстоит серьёзная
+    битва друг с другом в жестокую версию игры "Камень-ножницы-бумага"...
   episodes: null
   franchise: gintama
   genres:
@@ -21,255 +12,199 @@
   - Экшен
   - Комедия
   - Фантастика
-  name: 'Гинтама в кино: Кинтама'
-  portraitImgName: Gintama_on_Theater_2D_Kintama_hen.jpeg
-  releaseYear: 2024-01-01 00:00:00
-  review: 6.89
-  screenshots: []
-  studios:
-  - Bandai Namco Pictures
-  typeName: Фильм
-  url_name: Gintama_on_Theater_2D_Kintama_hen_94e10
-- description: ''
-  episodes: null
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: 'Гинтама в кино: Куртизанка нации'
-  portraitImgName: Gintama_on_Theater_2D_Ikkoku_Keisei_hen.jpeg
-  releaseYear: 2024-01-01 00:00:00
-  review: 7.11
-  screenshots: []
-  studios:
-  - Bandai Namco Pictures
-  typeName: Фильм
-  url_name: Gintama_on_Theater_2D_Ikkoku_Keisei_hen_03c4c
-- description: ''
-  episodes: null
-  franchise: gintama
-  genres:
-  - Комедия
-  name: Гинтама x «Мета Квест 3»
-  portraitImgName: Gintama_x_Meta_Quest_3_Collaboration_CM.jpeg
-  releaseYear: 2023-01-01 00:00:00
-  review: 5.66
+  name: 'Гинтама: Джамп Феста 2005'
+  portraitImgName: Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d.jpeg
+  releaseYear: 2005-01-01 00:00:00
+  review: 8.08
   screenshots:
-  - Gintama_x_Meta_Quest_3_Collaboration_CM_0.jpg
-  - Gintama_x_Meta_Quest_3_Collaboration_CM_1.jpg
-  - Gintama_x_Meta_Quest_3_Collaboration_CM_2.jpg
-  - Gintama_x_Meta_Quest_3_Collaboration_CM_3.jpg
+  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d_0.jpg
+  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d_1.jpg
+  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d_2.jpg
+  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d_3.jpg
   studios:
-  - Bandai Namco Pictures
-  typeName: Реклама
-  url_name: Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b
-- description: ''
-  episodes: null
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: 'Гинтама в кино: Барагаки'
-  portraitImgName: Gintama_on_Theater_2D_Baragaki_hen.jpeg
-  releaseYear: 2023-01-01 00:00:00
-  review: 7.02
-  screenshots:
-  - Gintama_on_Theater_2D_Baragaki_hen_0.jpg
-  - Gintama_on_Theater_2D_Baragaki_hen_1.jpg
-  - Gintama_on_Theater_2D_Baragaki_hen_2.jpg
-  - Gintama_on_Theater_2D_Baragaki_hen_3.jpg
-  studios:
-  - Bandai Namco Pictures
-  typeName: Фильм
-  url_name: Gintama_on_Theater_2D_Baragaki_hen_f29b9
-- description: 'Анонс аниме «Гинтама: 3-Z класс Гинпачи-сэнсэя», в котором Гинтоки
-    встречает своё альтер эго — школьного учителя по имени Гинпачи.'
-  episodes: null
-  franchise: gintama
-  genres:
-  - Комедия
-  name: 'Гинтама: 3-Z класс Гинпачи-сэнсэя — Спецвыпуск'
-  portraitImgName: 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special.jpeg
-  releaseYear: 2023-01-01 00:00:00
-  review: 7.35
-  screenshots:
-  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_0.jpg
-  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_1.jpg
-  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_2.jpg
-  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_3.jpg
-  studios:
-  - Bandai Namco Pictures
+  - Sunrise
   typeName: Спецвыпуск
-  url_name: 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca
-- description: Район Кабуки готовится к бою. Пока Хасэгава героически защищает людей,
-    а на орбите планеты в банановом корабле Кондо готовится к самому важному событию
-    в своей жизни — Гинтоки всё ещё избегает встречи со своими друзьями. Скоро состоится
-    решающая битва, её исход зависит от сплочённости жителей в эти сложные времена.
-    Именно поэтому весь город ждёт, когда же лидер Ёродзуи вернётся в строй, однако
-    никто даже не догадывается, как близко тот находится на самом деле.
-  episodes: 2
+  url_name: Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d
+- description: Жить в феодальной Японии непросто... особенно если вас завоевали инопланетяне.
+    Да, конечно, новая система здравоохранения хороша, но запрет на ношение меча ставит
+    истинных самураев в безвыходное положение. Вдвойне это относится к Гинтоки Сакате,
+    последнему самураю, в ком ещё жив истинно японский дух.Гинтоки живёт с Кагурой,
+    представительницей одной из сильнейших рас во вселенной, и очкариком Шинпачи Шимурой.
+    Втроём они создают агентство под названием «Мастера на все руки Гинтоки-сана»
+    и берутся за любые странные и нелепые поручения, с которыми к ним приходят, будь
+    то поиск пропавшей кошки или спасение мира. Ведь платить им нечем не только за
+    аренду жилья, но и за еду.
+  episodes: 201
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  name: 'Гинтама: Полуфинал'
-  portraitImgName: Gintama_The_Semi_Final.jpeg
-  releaseYear: 2021-01-01 00:00:00
-  review: 8.46
+  - Фантастика
+  name: Гинтама
+  portraitImgName: Gintama_e40f9.jpeg
+  releaseYear: 2006-01-01 00:00:00
+  review: 8.93
   screenshots:
-  - Gintama_The_Semi_Final_0.jpg
-  - Gintama_The_Semi_Final_1.jpg
-  - Gintama_The_Semi_Final_2.jpg
-  - Gintama_The_Semi_Final_3.jpg
+  - Gintama_e40f9_0.jpg
+  - Gintama_e40f9_1.jpg
+  - Gintama_e40f9_2.jpg
+  - Gintama_e40f9_3.jpg
   studios:
-  - Bandai Namco Pictures
+  - Sunrise
+  typeName: Сериал
+  url_name: Gintama_e40f9
+- description: Трейлер к фильму, показанный на Jump Super Anime Tour 2008 и впоследствии
+    выпущенный на DVD. Фильм, по которому создан трейлер, так и не вышел.
+  episodes: null
+  franchise: gintama
+  genres:
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: 'Гинтама: Рождение Белого Демона'
+  portraitImgName: Gintama_Shiroyasha_Koutan_e9034.jpeg
+  releaseYear: 2008-01-01 00:00:00
+  review: 8.36
+  screenshots:
+  - Gintama_Shiroyasha_Koutan_e9034_0.png
+  - Gintama_Shiroyasha_Koutan_e9034_1.png
+  - Gintama_Shiroyasha_Koutan_e9034_2.png
+  - Gintama_Shiroyasha_Koutan_e9034_3.png
+  studios:
+  - Sunrise
   typeName: Спецвыпуск
-  url_name: Gintama_The_Semi_Final_bca22
-- description: 'Два года минуло с последних событий. Пути Ёродзуи разошлись: Гинтоки
-    исследует Альтану, Кагура по всему космосу ищет способ вернуть прежнее состояние
-    Садахару, а Шинпачи пытается сохранить то немногое, что осталось от их общего
-    дома. Но тучи сгущаются, остатки Тендошу, благодаря банановой атаке Гориллы, падают
-    на Центральный терминал и собираются вновь использовать Альтану в своих целях.Пришла
-    пора друзьям в последний раз встать на защиту Эдо, чтобы исполнить желание Шоё
-    Йошиды и заодно спасти своё будущее.'
+  url_name: Gintama_Shiroyasha_Koutan_e9034
+- description: Ёродзуя вновь с вами, а именно Саката Гинтоки, Шимура Шинпачи и Кагура!
+    Причиной их собрания в Ryogoku Kokugikan (Стадион Сумо, Токио) является бурное
+    обсуждение четырехлетие  выпуска аниме. Будьте уверены, такого вы еще не видели!
+    Неожиданные гости, битвы, тайны, воспоминания и еще много интересного в Спешле
+    с шоу Gintama Harumatsuri Live.
   episodes: null
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  - Драма
-  - Фантастика
-  name: 'Гинтама: Финал'
-  portraitImgName: Gintama_The_Final.jpeg
-  releaseYear: 2021-01-01 00:00:00
-  review: 9.04
+  name: 'Гинтама: Грандиозное собрание'
+  portraitImgName: Gintama_Dai_Hanseikai_cfcfa.jpeg
+  releaseYear: 2010-01-01 00:00:00
+  review: 8.07
   screenshots:
-  - Gintama_The_Final_0.jpg
-  - Gintama_The_Final_1.jpg
-  - Gintama_The_Final_2.jpg
-  - Gintama_The_Final_3.jpg
+  - Gintama_Dai_Hanseikai_cfcfa_0.jpg
+  - Gintama_Dai_Hanseikai_cfcfa_1.jpg
+  - Gintama_Dai_Hanseikai_cfcfa_2.jpg
+  - Gintama_Dai_Hanseikai_cfcfa_3.jpg
   studios:
-  - Bandai Namco Pictures
+  - Sunrise
+  typeName: Спецвыпуск
+  url_name: Gintama_Dai_Hanseikai_cfcfa
+- description: 'Официальный сайт гласит, что премьерный показ полнометражного фильма
+    «Гинтама: Новый пересказ», адаптации альтернативно-исторической гэг-манги Хидэаки
+    Сорати, состоится в Японии во время «Золотой недели» — череды праздников, что
+    тянутся с конца апреля и до первой недели мая. Как и подразумевает название, действия
+    тесно соприкасаются с сюжетом TV-сериала.'
+  episodes: null
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: 'Гинтама: Сказание о Бэнидзакуре'
+  portraitImgName: Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa.jpeg
+  releaseYear: 2010-01-01 00:00:00
+  review: 8.53
+  screenshots:
+  - Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa_0.jpg
+  - Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa_1.jpg
+  - Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa_2.jpg
+  - Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa_3.jpg
+  studios:
+  - Sunrise
   typeName: Фильм
-  url_name: Gintama_The_Final_7bf1a
-- description: 'Два рекламных ролика фильма «Гинтама: Финал», в которых главные герои
-    превратились в живую фасоль.'
-  episodes: 2
-  franchise: gintama
-  genres:
-  - Комедия
-  name: 'Гинтама: Финал x Фасоль'
-  portraitImgName: Gintama_The_Final_x_Mameshiba.jpeg
-  releaseYear: 2020-01-01 00:00:00
-  review: 6.03
-  screenshots:
-  - Gintama_The_Final_x_Mameshiba_0.jpg
-  - Gintama_The_Final_x_Mameshiba_1.jpg
-  - Gintama_The_Final_x_Mameshiba_2.jpg
-  - Gintama_The_Final_x_Mameshiba_3.jpg
-  studios: []
-  typeName: Реклама
-  url_name: Gintama_The_Final_x_Mameshiba_a8f2c
-- description: Особая коллаборация между аниме-сериалами «Гинтама» и «Удар монстра».
-  episodes: 2
-  franchise: gintama
-  genres:
-  - Экшен
-  - Комедия
-  name: Гинтама x Удар монстра
-  portraitImgName: Gintama_Monster_Strike_hen.jpeg
-  releaseYear: 2019-01-01 00:00:00
-  review: 7.5
-  screenshots:
-  - Gintama_Monster_Strike_hen_0.jpg
-  - Gintama_Monster_Strike_hen_1.jpg
-  - Gintama_Monster_Strike_hen_2.jpg
-  - Gintama_Monster_Strike_hen_3.jpg
-  studios:
-  - Bandai Namco Pictures
-  typeName: ONA
-  url_name: Gintama_Monster_Strike_hen_d4b68
-- description: Пока Гинтоки с друзьями пытается освободить Эдо от Армии освобождения,
-    в космосе Котаро и Тацума вместе со своими верными союзниками пытаются объединить
-    силы с Шиджаку и Принцем Хатой. Некоторые, уже знакомые нам ранее герои, тоже
-    не останутся в стороне и присоединятся к сражению. Впереди ждёт ещё много трудностей
-    и испытаний, но наши герои выложатся на полную катушку! Ведь на кону, без преувеличения,
-    целая планета.Вторая часть экранизации арки «Серебряная душа» из манги «Гинтама».
-  episodes: 14
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: Гинтама 8
-  portraitImgName: Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen.jpeg
-  releaseYear: 2018-01-01 00:00:00
-  review: 8.88
-  screenshots:
-  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_0.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_1.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_2.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_3.jpg
-  studios:
-  - Bandai Namco Pictures
-  typeName: Сериал
-  url_name: Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca
-- description: Это видео является рекламой KFC, которая транслируется в Китае.
+  url_name: Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa
+- description: 'Специальный эпизод, приуроченный к Новому Году и выпущенный с ограниченным
+    DVD-изданием полнометражного фильма «Гинтама: Сказание о Бэнидзакуре». В нём наши
+    герои в уютной, предпраздничной обстановке обсудят самые яркие события второго
+    сезона и поделятся своими переживаниями по поводу аниме.'
   episodes: null
   franchise: gintama
   genres:
+  - Сёнен
+  - Экшен
   - Комедия
-  - Гурман
-  name: Гинтама и KFC Китай
-  portraitImgName: Yinhun_x_KFC.jpeg
-  releaseYear: 2018-01-01 00:00:00
-  review: 6.89
+  - Фантастика
+  name: 'Гинтама: Сказание о Бэнидзакуре — Дополнение'
+  portraitImgName: Gintama_Shinyaku_Benizakura_hen_ef18e.jpeg
+  releaseYear: 2010-01-01 00:00:00
+  review: 8.28
   screenshots:
-  - Yinhun_x_KFC_0.jpg
-  - Yinhun_x_KFC_1.jpg
-  - Yinhun_x_KFC_2.jpg
-  - Yinhun_x_KFC_3.jpg
+  - Gintama_Shinyaku_Benizakura_hen_ef18e_0.jpg
+  - Gintama_Shinyaku_Benizakura_hen_ef18e_1.jpg
+  - Gintama_Shinyaku_Benizakura_hen_ef18e_2.jpg
+  - Gintama_Shinyaku_Benizakura_hen_ef18e_3.jpg
   studios:
-  - Bandai Namco Pictures
-  typeName: Реклама
-  url_name: Yinhun_x_KFC_262e6
-- description: Первая часть экранизации арки «Серебряная душа».Данная арка является
-    прямым продолжением событий «Гинтамы 5» и знаменует собой начало последней битвы
-    за возвращение земель самураев. Наших героев ждут невероятные и масштабные сражения,
-    как в знакомом нам квартале Кабуки, так и, неожиданно, в космосе! Но и без абсурдного
-    юмора, конечно же, не обойдётся! Смогут ли Гинтоки, Кагура, Шинпачи и их союзники,
-    оказавшиеся под перекрестным огнём внушительных вражеских сил, отбросить свои
-    разногласия и объединиться, чтобы защитить то, что им дорого?
-  episodes: 12
+  - Sunrise
+  typeName: Спецвыпуск
+  url_name: Gintama_Shinyaku_Benizakura_hen_ef18e
+- description: Продолжение приключений Гинтоки и его команды из агентства «Мастера
+    на все руки» в окружении альтернативно-исторической феодальной Японии.
+  episodes: 51
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
   - Фантастика
-  name: Гинтама 7
-  portraitImgName: Gintama_Shirogane_no_Tamashii_hen.jpeg
-  releaseYear: 2018-01-01 00:00:00
-  review: 8.81
+  name: Гинтама 2
+  portraitImgName: Gintama_4da01.jpeg
+  releaseYear: 2011-01-01 00:00:00
+  review: 9.02
   screenshots:
-  - Gintama_Shirogane_no_Tamashii_hen_0.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_1.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_2.jpg
-  - Gintama_Shirogane_no_Tamashii_hen_3.jpg
+  - Gintama_4da01_0.png
+  - Gintama_4da01_1.png
+  - Gintama_4da01_2.png
+  - Gintama_4da01_3.png
   studios:
-  - Bandai Namco Pictures
+  - Sunrise
   typeName: Сериал
-  url_name: Gintama_Shirogane_no_Tamashii_hen_fe1d6
-- description: Очередной сезон представляет собой экранизацию нескольких пропущенных
-    комедийных арок в манге. Сериал поведает о приключениях Ёродзуи вместе с остальными
-    жителями Эдо, происходящих во время начала четвёртого сезона.
+  url_name: Gintama_4da01
+- description: Полнометражная версия арок о Синсэнгуми (101-105 серии), а также четырёх
+    дэвах квартала Кабуки (210-214 серии).1) В рядах Синсэнгуми вспыхнул бунт. Как
+    в этом замешан Камотаро Ито и причём тут Шинскэ Такасуги?2) Напряжение между группировками
+    в Кабуки возрастает, поэтому четверо их предводителей решили заключить договор.
+    Группировка, которая начнёт разборки на чужой территории, будет уничтожена тремя
+    другими. Кто же станет первой жертвой?Вспомнить, как это было, и посмотреть одно
+    из опаснейших приключений Ёродзуи теперь можно в одном фильме.
+  episodes: 2
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: 'Гинтама: Лучшее из «Гинтамы» на Theater 2D'
+  portraitImgName: Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115.jpeg
+  releaseYear: 2012-01-01 00:00:00
+  review: 8.42
+  screenshots:
+  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115_0.png
+  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115_1.png
+  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115_2.png
+  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115_3.png
+  studios:
+  - Sunrise
+  typeName: Фильм
+  url_name: Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115
+- description: Третье пришествие знаменитой троицы мастеров на все руки Ёродзуя. Гинтоки
+    по-прежнему ленив и кучеряв, у малышки Кагуры остался прежний взрывной характер
+    (и бездонный желудок тоже), а Шинпачи всё так же выступает в команде голосом разума.
+    Почему всё осталось по-прежнему? Потому что сериал представляет из себя повторный
+    показ избранных эпизодов из предыдущих сезонов, однако не обойдётся и без новых
+    серий. Восстав аки феникс из пепла, сериал вновь раздаст пинки здравому смыслу,
+    поиздевается над моралью и порвёт не один шаблон. Приготовьтесь, театр абсурда
+    в декорациях футуристически-средневекового Эдо ещё никогда не был таким весёлым!
   episodes: 13
   franchise: gintama
   genres:
@@ -277,94 +212,89 @@
   - Экшен
   - Комедия
   - Фантастика
-  name: Гинтама 6
-  portraitImgName: Gintama_Porori_hen.jpeg
-  releaseYear: 2017-01-01 00:00:00
-  review: 8.52
+  name: Гинтама 3
+  portraitImgName: Gintama_Enchousen_ef45f.jpeg
+  releaseYear: 2012-01-01 00:00:00
+  review: 9.02
   screenshots:
-  - Gintama_Porori_hen_0.png
-  - Gintama_Porori_hen_1.png
-  - Gintama_Porori_hen_2.png
-  - Gintama_Porori_hen_3.png
+  - Gintama_Enchousen_ef45f_0.jpg
+  - Gintama_Enchousen_ef45f_1.jpg
+  - Gintama_Enchousen_ef45f_2.jpg
+  - Gintama_Enchousen_ef45f_3.jpg
   studios:
-  - Bandai Namco Pictures
+  - Sunrise
   typeName: Сериал
-  url_name: Gintama_Porori_hen_62ad8
-- description: В Японии эпохи Эдо, захваченной пришельцами, небоскрёбы, скоростные
-    поезда и шумные мотоциклы, казалось бы, давно стёрли из умов землян воспоминания
-    об обычной жизни. Единственный человек, в котором сохранился дух самурая, — Гинтоки
-    Саката. Как обычно, в своей неторопливой манере, Гинтоки продолжает, валяясь на
-    диване, читать Jump, бродить по кабакам, прятать остатки денег от Отосэ и спасать
-    мир в перерывах между ковырянием в носу.Неизвестно, что готовит ему судьба на
-    этот раз, но верные Кагура и Шинпачи всегда рядом.
-  episodes: 12
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: Гинтама 5
-  portraitImgName: Gintama_.jpeg
-  releaseYear: 2017-01-01 00:00:00
-  review: 8.98
-  screenshots:
-  - Gintama__0.png
-  - Gintama__1.png
-  - Gintama__2.png
-  - Gintama__3.png
-  studios:
-  - Bandai Namco Pictures
-  typeName: Сериал
-  url_name: Gintama_8d657
-- description: 'Ёсивару атакует загадочный туман, обладающий одним опаснейшим свойством:
-    любой вдохнувший его влюбится в первого, кого увидит. Цукуё попадает под удар,
-    и чувства к Гинтоки, которые бедняжка пыталась скрывать, стремятся вырваться наружу.
-    Пытаясь ликвидировать угрозу, Цукуё совершает роковую ошибку, и зловещая дымка
-    окутывает весь район Кабуки. Жертвами тумана оказываются и Ёродзуя вместе с Таэ,
-    Кьюбэй и Исао. Удастся ли нашим героям справиться с любовным недугом и остановить
-    неизвестного преступника?'
-  episodes: 2
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Комедия
-  name: 'Гинтама 4: Любовные благовония'
-  portraitImgName: Gintama_Aizome_Kaori_hen.jpeg
-  releaseYear: 2016-01-01 00:00:00
-  review: 8.38
-  screenshots:
-  - Gintama_Aizome_Kaori_hen_0.png
-  - Gintama_Aizome_Kaori_hen_1.png
-  - Gintama_Aizome_Kaori_hen_2.png
-  - Gintama_Aizome_Kaori_hen_3.png
-  studios:
-  - Bandai Namco Pictures
-  typeName: OVA
-  url_name: Gintama_Aizome_Kaori_hen_e34a7
-- description: Спецвыпуск «Гинтамы», впервые показанный на Jump Special Anime Festa
-    2015. В нём все главные действующие лица аниме собрались вместе, чтобы поздравить
-    с прошедшими 10-ти годами со дня анонса первого сериала «Гинтама» и объявить о
-    грядущей самой большой арке за всю историю аниме.
+  url_name: Gintama_Enchousen_ef45f
+- description: 'Интересно, что бы случилось, если бы Белого Демона никогда не существовало?В
+    один прекрасный день мир сошёл с ума, и теперь Эдо ввергнут в настоящий хаос.
+    Гинтоки Саката отныне живёт в альтернативной реальности, будущем, в котором ему
+    места не нашлось. Но что же случилось с Ёродзуей? А с остальными? Но важнее всего:
+    кто за всем этим стоит?Похоже, Гинтоки снова предстоит стать демоном во плоти,
+    чтобы защитить своих друзей. Ему в одиночку придётся управляться с грандиознейшим
+    поручением в истории Ёродзуи и постараться, чтобы оно не стало последним.'
   episodes: null
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  name: 'Гинтама: Джамп Феста 2015'
-  portraitImgName: Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue.jpeg
-  releaseYear: 2015-01-01 00:00:00
-  review: 8.1
+  - Фантастика
+  name: 'Гинтама: Финальная арка — Ёродзуя навсегда!'
+  portraitImgName: Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c.jpeg
+  releaseYear: 2013-01-01 00:00:00
+  review: 8.9
   screenshots:
-  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_0.jpg
-  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_1.jpg
-  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_2.jpg
-  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_3.jpg
+  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c_0.jpg
+  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c_1.jpg
+  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c_2.jpg
+  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c_3.jpg
   studios:
-  - Bandai Namco Pictures
+  - Sunrise
+  typeName: Фильм
+  url_name: Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c
+- description: 'Шесть рекламных роликов фильма «Гинтама: Финальная арка — Ёродзуя
+    навсегда!», в которых главные герои аниме превратились в странных существ.Данная
+    реклама является пародией на популярное детское шоу «Фасоль», в котором персонажи
+    похожи на гибрид собаки и фасоли.'
+  episodes: 6
+  franchise: gintama
+  genres:
+  - Комедия
+  name: Гинтама x Фасоль
+  portraitImgName: Gintama_x_Mameshiba_3e70f.jpeg
+  releaseYear: 2013-01-01 00:00:00
+  review: 6.71
+  screenshots:
+  - Gintama_x_Mameshiba_3e70f_0.jpg
+  - Gintama_x_Mameshiba_3e70f_1.jpg
+  - Gintama_x_Mameshiba_3e70f_2.jpg
+  - Gintama_x_Mameshiba_3e70f_3.jpg
+  studios: []
+  typeName: Реклама
+  url_name: Gintama_x_Mameshiba_3e70f
+- description: 'Спецвыпуск «Гинтамы», приуроченный к ограниченному изданию 58 тома
+    манги. На Jump Special Anime Festa 2014 состоялся его предварительный показ. Слоган
+    к аниме возвещает: «Всем членам Йорозуи пришла пора пробудиться вновь».'
+  episodes: null
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: 'Гинтама: Джамп Феста 2014'
+  portraitImgName: Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae.jpeg
+  releaseYear: 2015-01-01 00:00:00
+  review: 8.12
+  screenshots:
+  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae_0.jpg
+  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae_1.jpg
+  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae_2.jpg
+  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae_3.jpg
+  studios:
+  - Sunrise
   typeName: Спецвыпуск
-  url_name: Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2
+  url_name: Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae
 - description: 'Никто этого уже не ждал и не надеялся, но...«Простите, что сняли четвертый
     сезон!», — возвестила студия Sunrise и вернула любимых героев, по которым все
     уже успели соскучиться, на экраны. Гинтама снова с нами, и она лучше, чем когда-либо
@@ -385,96 +315,96 @@
   - Комедия
   - Фантастика
   name: Гинтама 4
-  portraitImgName: Gintama_.jpeg
+  portraitImgName: Gintama_238b0.jpeg
   releaseYear: 2015-01-01 00:00:00
   review: 9.05
   screenshots:
-  - Gintama__0.jpg
-  - Gintama__1.jpg
-  - Gintama__2.jpg
-  - Gintama__3.jpg
+  - Gintama_238b0_0.jpg
+  - Gintama_238b0_1.jpg
+  - Gintama_238b0_2.jpg
+  - Gintama_238b0_3.jpg
   studios:
   - Bandai Namco Pictures
   typeName: Сериал
   url_name: Gintama_238b0
-- description: 'Спецвыпуск «Гинтамы», приуроченный к ограниченному изданию 58 тома
-    манги. На Jump Special Anime Festa 2014 состоялся его предварительный показ. Слоган
-    к аниме возвещает: «Всем членам Йорозуи пришла пора пробудиться вновь».'
+- description: Спецвыпуск «Гинтамы», впервые показанный на Jump Special Anime Festa
+    2015. В нём все главные действующие лица аниме собрались вместе, чтобы поздравить
+    с прошедшими 10-ти годами со дня анонса первого сериала «Гинтама» и объявить о
+    грядущей самой большой арке за всю историю аниме.
   episodes: null
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  - Фантастика
-  name: 'Гинтама: Джамп Феста 2014'
-  portraitImgName: Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru.jpeg
+  name: 'Гинтама: Джамп Феста 2015'
+  portraitImgName: Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2.jpeg
   releaseYear: 2015-01-01 00:00:00
-  review: 8.12
+  review: 8.1
   screenshots:
-  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_0.jpg
-  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_1.jpg
-  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_2.jpg
-  - Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_3.jpg
+  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2_0.jpg
+  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2_1.jpg
+  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2_2.jpg
+  - Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2_3.jpg
   studios:
-  - Sunrise
+  - Bandai Namco Pictures
   typeName: Спецвыпуск
-  url_name: Gintama_Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru_fe0ae
-- description: 'Шесть рекламных роликов фильма «Гинтама: Финальная арка — Ёродзуя
-    навсегда!», в которых главные герои аниме превратились в странных существ.Данная
-    реклама является пародией на популярное детское шоу «Фасоль», в котором персонажи
-    похожи на гибрид собаки и фасоли.'
-  episodes: 6
+  url_name: Gintama_Umai_mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue_acec2
+- description: 'Ёсивару атакует загадочный туман, обладающий одним опаснейшим свойством:
+    любой вдохнувший его влюбится в первого, кого увидит. Цукуё попадает под удар,
+    и чувства к Гинтоки, которые бедняжка пыталась скрывать, стремятся вырваться наружу.
+    Пытаясь ликвидировать угрозу, Цукуё совершает роковую ошибку, и зловещая дымка
+    окутывает весь район Кабуки. Жертвами тумана оказываются и Ёродзуя вместе с Таэ,
+    Кьюбэй и Исао. Удастся ли нашим героям справиться с любовным недугом и остановить
+    неизвестного преступника?'
+  episodes: 2
   franchise: gintama
   genres:
+  - Сёнен
   - Комедия
-  name: Гинтама x Фасоль
-  portraitImgName: Gintama_x_Mameshiba.jpeg
-  releaseYear: 2013-01-01 00:00:00
-  review: 6.71
+  name: 'Гинтама 4: Любовные благовония'
+  portraitImgName: Gintama_Aizome_Kaori_hen_e34a7.jpeg
+  releaseYear: 2016-01-01 00:00:00
+  review: 8.38
   screenshots:
-  - Gintama_x_Mameshiba_0.jpg
-  - Gintama_x_Mameshiba_1.jpg
-  - Gintama_x_Mameshiba_2.jpg
-  - Gintama_x_Mameshiba_3.jpg
-  studios: []
-  typeName: Реклама
-  url_name: Gintama_x_Mameshiba_3e70f
-- description: 'Интересно, что бы случилось, если бы Белого Демона никогда не существовало?В
-    один прекрасный день мир сошёл с ума, и теперь Эдо ввергнут в настоящий хаос.
-    Гинтоки Саката отныне живёт в альтернативной реальности, будущем, в котором ему
-    места не нашлось. Но что же случилось с Ёродзуей? А с остальными? Но важнее всего:
-    кто за всем этим стоит?Похоже, Гинтоки снова предстоит стать демоном во плоти,
-    чтобы защитить своих друзей. Ему в одиночку придётся управляться с грандиознейшим
-    поручением в истории Ёродзуи и постараться, чтобы оно не стало последним.'
-  episodes: null
+  - Gintama_Aizome_Kaori_hen_e34a7_0.png
+  - Gintama_Aizome_Kaori_hen_e34a7_1.png
+  - Gintama_Aizome_Kaori_hen_e34a7_2.png
+  - Gintama_Aizome_Kaori_hen_e34a7_3.png
+  studios:
+  - Bandai Namco Pictures
+  typeName: OVA
+  url_name: Gintama_Aizome_Kaori_hen_e34a7
+- description: В Японии эпохи Эдо, захваченной пришельцами, небоскрёбы, скоростные
+    поезда и шумные мотоциклы, казалось бы, давно стёрли из умов землян воспоминания
+    об обычной жизни. Единственный человек, в котором сохранился дух самурая, — Гинтоки
+    Саката. Как обычно, в своей неторопливой манере, Гинтоки продолжает, валяясь на
+    диване, читать Jump, бродить по кабакам, прятать остатки денег от Отосэ и спасать
+    мир в перерывах между ковырянием в носу.Неизвестно, что готовит ему судьба на
+    этот раз, но верные Кагура и Шинпачи всегда рядом.
+  episodes: 12
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
   - Фантастика
-  name: 'Гинтама: Финальная арка — Ёродзуя навсегда!'
-  portraitImgName: Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare.jpeg
-  releaseYear: 2013-01-01 00:00:00
-  review: 8.9
+  name: Гинтама 5
+  portraitImgName: Gintama_8d657.jpeg
+  releaseYear: 2017-01-01 00:00:00
+  review: 8.98
   screenshots:
-  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_0.jpg
-  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1.jpg
-  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_2.jpg
-  - Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_3.jpg
+  - Gintama_8d657_0.png
+  - Gintama_8d657_1.png
+  - Gintama_8d657_2.png
+  - Gintama_8d657_3.png
   studios:
-  - Sunrise
-  typeName: Фильм
-  url_name: Gintama_Movie_2_Kanketsu_hen_Yorozuya_yo_Eien_Nare_1675c
-- description: Третье пришествие знаменитой троицы мастеров на все руки Ёродзуя. Гинтоки
-    по-прежнему ленив и кучеряв, у малышки Кагуры остался прежний взрывной характер
-    (и бездонный желудок тоже), а Шинпачи всё так же выступает в команде голосом разума.
-    Почему всё осталось по-прежнему? Потому что сериал представляет из себя повторный
-    показ избранных эпизодов из предыдущих сезонов, однако не обойдётся и без новых
-    серий. Восстав аки феникс из пепла, сериал вновь раздаст пинки здравому смыслу,
-    поиздевается над моралью и порвёт не один шаблон. Приготовьтесь, театр абсурда
-    в декорациях футуристически-средневекового Эдо ещё никогда не был таким весёлым!
+  - Bandai Namco Pictures
+  typeName: Сериал
+  url_name: Gintama_8d657
+- description: Очередной сезон представляет собой экранизацию нескольких пропущенных
+    комедийных арок в манге. Сериал поведает о приключениях Ёродзуи вместе с остальными
+    жителями Эдо, происходящих во время начала четвёртого сезона.
   episodes: 13
   franchise: gintama
   genres:
@@ -482,72 +412,240 @@
   - Экшен
   - Комедия
   - Фантастика
-  name: Гинтама 3
-  portraitImgName: Gintama_Enchousen.jpeg
-  releaseYear: 2012-01-01 00:00:00
-  review: 9.02
+  name: Гинтама 6
+  portraitImgName: Gintama_Porori_hen_62ad8.jpeg
+  releaseYear: 2017-01-01 00:00:00
+  review: 8.52
   screenshots:
-  - Gintama_Enchousen_0.jpg
-  - Gintama_Enchousen_1.jpg
-  - Gintama_Enchousen_2.jpg
-  - Gintama_Enchousen_3.jpg
+  - Gintama_Porori_hen_62ad8_0.png
+  - Gintama_Porori_hen_62ad8_1.png
+  - Gintama_Porori_hen_62ad8_2.png
+  - Gintama_Porori_hen_62ad8_3.png
   studios:
-  - Sunrise
+  - Bandai Namco Pictures
   typeName: Сериал
-  url_name: Gintama_Enchousen_ef45f
-- description: Полнометражная версия арок о Синсэнгуми (101-105 серии), а также четырёх
-    дэвах квартала Кабуки (210-214 серии).1) В рядах Синсэнгуми вспыхнул бунт. Как
-    в этом замешан Камотаро Ито и причём тут Шинскэ Такасуги?2) Напряжение между группировками
-    в Кабуки возрастает, поэтому четверо их предводителей решили заключить договор.
-    Группировка, которая начнёт разборки на чужой территории, будет уничтожена тремя
-    другими. Кто же станет первой жертвой?Вспомнить, как это было, и посмотреть одно
-    из опаснейших приключений Ёродзуи теперь можно в одном фильме.
+  url_name: Gintama_Porori_hen_62ad8
+- description: Первая часть экранизации арки «Серебряная душа».Данная арка является
+    прямым продолжением событий «Гинтамы 5» и знаменует собой начало последней битвы
+    за возвращение земель самураев. Наших героев ждут невероятные и масштабные сражения,
+    как в знакомом нам квартале Кабуки, так и, неожиданно, в космосе! Но и без абсурдного
+    юмора, конечно же, не обойдётся! Смогут ли Гинтоки, Кагура, Шинпачи и их союзники,
+    оказавшиеся под перекрестным огнём внушительных вражеских сил, отбросить свои
+    разногласия и объединиться, чтобы защитить то, что им дорого?
+  episodes: 12
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: Гинтама 7
+  portraitImgName: Gintama_Shirogane_no_Tamashii_hen_fe1d6.jpeg
+  releaseYear: 2018-01-01 00:00:00
+  review: 8.81
+  screenshots:
+  - Gintama_Shirogane_no_Tamashii_hen_fe1d6_0.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_fe1d6_1.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_fe1d6_2.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_fe1d6_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: Сериал
+  url_name: Gintama_Shirogane_no_Tamashii_hen_fe1d6
+- description: Это видео является рекламой KFC, которая транслируется в Китае.
+  episodes: null
+  franchise: gintama
+  genres:
+  - Комедия
+  - Гурман
+  name: Гинтама и KFC Китай
+  portraitImgName: Yinhun_x_KFC_262e6.jpeg
+  releaseYear: 2018-01-01 00:00:00
+  review: 6.89
+  screenshots:
+  - Yinhun_x_KFC_262e6_0.jpg
+  - Yinhun_x_KFC_262e6_1.jpg
+  - Yinhun_x_KFC_262e6_2.jpg
+  - Yinhun_x_KFC_262e6_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: Реклама
+  url_name: Yinhun_x_KFC_262e6
+- description: Пока Гинтоки с друзьями пытается освободить Эдо от Армии освобождения,
+    в космосе Котаро и Тацума вместе со своими верными союзниками пытаются объединить
+    силы с Шиджаку и Принцем Хатой. Некоторые, уже знакомые нам ранее герои, тоже
+    не останутся в стороне и присоединятся к сражению. Впереди ждёт ещё много трудностей
+    и испытаний, но наши герои выложатся на полную катушку! Ведь на кону, без преувеличения,
+    целая планета.Вторая часть экранизации арки «Серебряная душа» из манги «Гинтама».
+  episodes: 14
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: Гинтама 8
+  portraitImgName: Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca.jpeg
+  releaseYear: 2018-01-01 00:00:00
+  review: 8.88
+  screenshots:
+  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca_0.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca_1.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca_2.jpg
+  - Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: Сериал
+  url_name: Gintama_Shirogane_no_Tamashii_hen_Kouhan_sen_b49ca
+- description: Особая коллаборация между аниме-сериалами «Гинтама» и «Удар монстра».
+  episodes: 2
+  franchise: gintama
+  genres:
+  - Экшен
+  - Комедия
+  name: Гинтама x Удар монстра
+  portraitImgName: Gintama_Monster_Strike_hen_d4b68.jpeg
+  releaseYear: 2019-01-01 00:00:00
+  review: 7.5
+  screenshots:
+  - Gintama_Monster_Strike_hen_d4b68_0.jpg
+  - Gintama_Monster_Strike_hen_d4b68_1.jpg
+  - Gintama_Monster_Strike_hen_d4b68_2.jpg
+  - Gintama_Monster_Strike_hen_d4b68_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: ONA
+  url_name: Gintama_Monster_Strike_hen_d4b68
+- description: 'Два рекламных ролика фильма «Гинтама: Финал», в которых главные герои
+    превратились в живую фасоль.'
+  episodes: 2
+  franchise: gintama
+  genres:
+  - Комедия
+  name: 'Гинтама: Финал x Фасоль'
+  portraitImgName: Gintama_The_Final_x_Mameshiba_a8f2c.jpeg
+  releaseYear: 2020-01-01 00:00:00
+  review: 6.03
+  screenshots:
+  - Gintama_The_Final_x_Mameshiba_a8f2c_0.jpg
+  - Gintama_The_Final_x_Mameshiba_a8f2c_1.jpg
+  - Gintama_The_Final_x_Mameshiba_a8f2c_2.jpg
+  - Gintama_The_Final_x_Mameshiba_a8f2c_3.jpg
+  studios: []
+  typeName: Реклама
+  url_name: Gintama_The_Final_x_Mameshiba_a8f2c
+- description: 'Два года минуло с последних событий. Пути Ёродзуи разошлись: Гинтоки
+    исследует Альтану, Кагура по всему космосу ищет способ вернуть прежнее состояние
+    Садахару, а Шинпачи пытается сохранить то немногое, что осталось от их общего
+    дома. Но тучи сгущаются, остатки Тендошу, благодаря банановой атаке Гориллы, падают
+    на Центральный терминал и собираются вновь использовать Альтану в своих целях.Пришла
+    пора друзьям в последний раз встать на защиту Эдо, чтобы исполнить желание Шоё
+    Йошиды и заодно спасти своё будущее.'
+  episodes: null
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Драма
+  - Фантастика
+  name: 'Гинтама: Финал'
+  portraitImgName: Gintama_The_Final_7bf1a.jpeg
+  releaseYear: 2021-01-01 00:00:00
+  review: 9.04
+  screenshots:
+  - Gintama_The_Final_7bf1a_0.jpg
+  - Gintama_The_Final_7bf1a_1.jpg
+  - Gintama_The_Final_7bf1a_2.jpg
+  - Gintama_The_Final_7bf1a_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: Фильм
+  url_name: Gintama_The_Final_7bf1a
+- description: Район Кабуки готовится к бою. Пока Хасэгава героически защищает людей,
+    а на орбите планеты в банановом корабле Кондо готовится к самому важному событию
+    в своей жизни — Гинтоки всё ещё избегает встречи со своими друзьями. Скоро состоится
+    решающая битва, её исход зависит от сплочённости жителей в эти сложные времена.
+    Именно поэтому весь город ждёт, когда же лидер Ёродзуи вернётся в строй, однако
+    никто даже не догадывается, как близко тот находится на самом деле.
   episodes: 2
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  - Фантастика
-  name: 'Гинтама: Лучшее из «Гинтамы» на Theater 2D'
-  portraitImgName: Gintama_Yorinuki_Gintama_san_on_Theater_2D.jpeg
-  releaseYear: 2012-01-01 00:00:00
-  review: 8.42
+  name: 'Гинтама: Полуфинал'
+  portraitImgName: Gintama_The_Semi_Final_bca22.jpeg
+  releaseYear: 2021-01-01 00:00:00
+  review: 8.46
   screenshots:
-  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_0.png
-  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_1.png
-  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_2.png
-  - Gintama_Yorinuki_Gintama_san_on_Theater_2D_3.png
+  - Gintama_The_Semi_Final_bca22_0.jpg
+  - Gintama_The_Semi_Final_bca22_1.jpg
+  - Gintama_The_Semi_Final_bca22_2.jpg
+  - Gintama_The_Semi_Final_bca22_3.jpg
   studios:
-  - Sunrise
+  - Bandai Namco Pictures
+  typeName: Спецвыпуск
+  url_name: Gintama_The_Semi_Final_bca22
+- description: 'Анонс аниме «Гинтама: 3-Z класс Гинпачи-сэнсэя», в котором Гинтоки
+    встречает своё альтер эго — школьного учителя по имени Гинпачи.'
+  episodes: null
+  franchise: gintama
+  genres:
+  - Комедия
+  name: 'Гинтама: 3-Z класс Гинпачи-сэнсэя — Спецвыпуск'
+  portraitImgName: 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca.jpeg
+  releaseYear: 2023-01-01 00:00:00
+  review: 7.35
+  screenshots:
+  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca_0.jpg
+  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca_1.jpg
+  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca_2.jpg
+  - 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca_3.jpg
+  studios:
+  - Bandai Namco Pictures
+  typeName: Спецвыпуск
+  url_name: 3_nen_Z_gumi_Ginpachi_sensei_Announcement_Special_fb7ca
+- description: ''
+  episodes: null
+  franchise: gintama
+  genres:
+  - Сёнен
+  - Экшен
+  - Комедия
+  - Фантастика
+  name: 'Гинтама в кино: Барагаки'
+  portraitImgName: Gintama_on_Theater_2D_Baragaki_hen_f29b9.jpeg
+  releaseYear: 2023-01-01 00:00:00
+  review: 7.02
+  screenshots:
+  - Gintama_on_Theater_2D_Baragaki_hen_f29b9_0.jpg
+  - Gintama_on_Theater_2D_Baragaki_hen_f29b9_1.jpg
+  - Gintama_on_Theater_2D_Baragaki_hen_f29b9_2.jpg
+  - Gintama_on_Theater_2D_Baragaki_hen_f29b9_3.jpg
+  studios:
+  - Bandai Namco Pictures
   typeName: Фильм
-  url_name: Gintama_Yorinuki_Gintama_san_on_Theater_2D_f3115
-- description: Продолжение приключений Гинтоки и его команды из агентства «Мастера
-    на все руки» в окружении альтернативно-исторической феодальной Японии.
-  episodes: 51
+  url_name: Gintama_on_Theater_2D_Baragaki_hen_f29b9
+- description: ''
+  episodes: null
   franchise: gintama
   genres:
-  - Сёнен
-  - Экшен
   - Комедия
-  - Фантастика
-  name: Гинтама 2
-  portraitImgName: Gintama_.jpeg
-  releaseYear: 2011-01-01 00:00:00
-  review: 9.02
+  name: Гинтама x «Мета Квест 3»
+  portraitImgName: Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b.jpeg
+  releaseYear: 2023-01-01 00:00:00
+  review: 5.66
   screenshots:
-  - Gintama__0.png
-  - Gintama__1.png
-  - Gintama__2.png
-  - Gintama__3.png
+  - Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b_0.jpg
+  - Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b_1.jpg
+  - Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b_2.jpg
+  - Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b_3.jpg
   studios:
-  - Sunrise
-  typeName: Сериал
-  url_name: Gintama_4da01
-- description: 'Специальный эпизод, приуроченный к Новому Году и выпущенный с ограниченным
-    DVD-изданием полнометражного фильма «Гинтама: Сказание о Бэнидзакуре». В нём наши
-    герои в уютной, предпраздничной обстановке обсудят самые яркие события второго
-    сезона и поделятся своими переживаниями по поводу аниме.'
+  - Bandai Namco Pictures
+  typeName: Реклама
+  url_name: Gintama_x_Meta_Quest_3_Collaboration_CM_2ac5b
+- description: ''
   episodes: null
   franchise: gintama
   genres:
@@ -555,142 +653,44 @@
   - Экшен
   - Комедия
   - Фантастика
-  name: 'Гинтама: Сказание о Бэнидзакуре — Дополнение'
-  portraitImgName: Gintama_Shinyaku_Benizakura_hen.jpeg
-  releaseYear: 2010-01-01 00:00:00
-  review: 8.28
-  screenshots:
-  - Gintama_Shinyaku_Benizakura_hen_0.jpg
-  - Gintama_Shinyaku_Benizakura_hen_1.jpg
-  - Gintama_Shinyaku_Benizakura_hen_2.jpg
-  - Gintama_Shinyaku_Benizakura_hen_3.jpg
+  name: 'Гинтама в кино: Куртизанка нации'
+  portraitImgName: Gintama_on_Theater_2D_Ikkoku_Keisei_hen_03c4c.jpeg
+  releaseYear: 2024-01-01 00:00:00
+  review: 7.11
+  screenshots: []
   studios:
-  - Sunrise
-  typeName: Спецвыпуск
-  url_name: Gintama_Shinyaku_Benizakura_hen_ef18e
-- description: 'Официальный сайт гласит, что премьерный показ полнометражного фильма
-    «Гинтама: Новый пересказ», адаптации альтернативно-исторической гэг-манги Хидэаки
-    Сорати, состоится в Японии во время «Золотой недели» — череды праздников, что
-    тянутся с конца апреля и до первой недели мая. Как и подразумевает название, действия
-    тесно соприкасаются с сюжетом TV-сериала.'
-  episodes: null
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: 'Гинтама: Сказание о Бэнидзакуре'
-  portraitImgName: Gintama_Movie_1_Shinyaku_Benizakura_hen.jpeg
-  releaseYear: 2010-01-01 00:00:00
-  review: 8.53
-  screenshots:
-  - Gintama_Movie_1_Shinyaku_Benizakura_hen_0.jpg
-  - Gintama_Movie_1_Shinyaku_Benizakura_hen_1.jpg
-  - Gintama_Movie_1_Shinyaku_Benizakura_hen_2.jpg
-  - Gintama_Movie_1_Shinyaku_Benizakura_hen_3.jpg
-  studios:
-  - Sunrise
+  - Bandai Namco Pictures
   typeName: Фильм
-  url_name: Gintama_Movie_1_Shinyaku_Benizakura_hen_3f9aa
-- description: Ёродзуя вновь с вами, а именно Саката Гинтоки, Шимура Шинпачи и Кагура!
-    Причиной их собрания в Ryogoku Kokugikan (Стадион Сумо, Токио) является бурное
-    обсуждение четырехлетие  выпуска аниме. Будьте уверены, такого вы еще не видели!
-    Неожиданные гости, битвы, тайны, воспоминания и еще много интересного в Спешле
-    с шоу Gintama Harumatsuri Live.
+  url_name: Gintama_on_Theater_2D_Ikkoku_Keisei_hen_03c4c
+- description: ''
   episodes: null
   franchise: gintama
   genres:
   - Сёнен
   - Экшен
   - Комедия
-  name: 'Гинтама: Грандиозное собрание'
-  portraitImgName: Gintama_Dai_Hanseikai.jpeg
-  releaseYear: 2010-01-01 00:00:00
-  review: 8.07
-  screenshots:
-  - Gintama_Dai_Hanseikai_0.jpg
-  - Gintama_Dai_Hanseikai_1.jpg
-  - Gintama_Dai_Hanseikai_2.jpg
-  - Gintama_Dai_Hanseikai_3.jpg
+  - Фантастика
+  name: 'Гинтама в кино: Кинтама'
+  portraitImgName: Gintama_on_Theater_2D_Kintama_hen_94e10.jpeg
+  releaseYear: 2024-01-01 00:00:00
+  review: 6.89
+  screenshots: []
   studios:
-  - Sunrise
-  typeName: Спецвыпуск
-  url_name: Gintama_Dai_Hanseikai_cfcfa
-- description: Трейлер к фильму, показанный на Jump Super Anime Tour 2008 и впоследствии
-    выпущенный на DVD. Фильм, по которому создан трейлер, так и не вышел.
+  - Bandai Namco Pictures
+  typeName: Фильм
+  url_name: Gintama_on_Theater_2D_Kintama_hen_94e10
+- description: ''
   episodes: null
   franchise: gintama
   genres:
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: 'Гинтама: Рождение Белого Демона'
-  portraitImgName: Gintama_Shiroyasha_Koutan.jpeg
-  releaseYear: 2008-01-01 00:00:00
-  review: 8.36
-  screenshots:
-  - Gintama_Shiroyasha_Koutan_0.png
-  - Gintama_Shiroyasha_Koutan_1.png
-  - Gintama_Shiroyasha_Koutan_2.png
-  - Gintama_Shiroyasha_Koutan_3.png
-  studios:
-  - Sunrise
-  typeName: Спецвыпуск
-  url_name: Gintama_Shiroyasha_Koutan_e9034
-- description: Жить в феодальной Японии непросто... особенно если вас завоевали инопланетяне.
-    Да, конечно, новая система здравоохранения хороша, но запрет на ношение меча ставит
-    истинных самураев в безвыходное положение. Вдвойне это относится к Гинтоки Сакате,
-    последнему самураю, в ком ещё жив истинно японский дух.Гинтоки живёт с Кагурой,
-    представительницей одной из сильнейших рас во вселенной, и очкариком Шинпачи Шимурой.
-    Втроём они создают агентство под названием «Мастера на все руки Гинтоки-сана»
-    и берутся за любые странные и нелепые поручения, с которыми к ним приходят, будь
-    то поиск пропавшей кошки или спасение мира. Ведь платить им нечем не только за
-    аренду жилья, но и за еду.
-  episodes: 201
-  franchise: gintama
-  genres:
   - Сёнен
-  - Экшен
   - Комедия
-  - Фантастика
-  name: Гинтама
-  portraitImgName: Gintama.jpeg
-  releaseYear: 2006-01-01 00:00:00
-  review: 8.93
-  screenshots:
-  - Gintama_0.jpg
-  - Gintama_1.jpg
-  - Gintama_2.jpg
-  - Gintama_3.jpg
+  name: 'Гинтама: 3-Z класс Гинпачи-сэнсэя'
+  portraitImgName: 3_nen_Z_gumi_Ginpachi_sensei_db4ac.jpeg
+  releaseYear: 2025-01-01 00:00:00
+  review: 0.0
+  screenshots: []
   studios:
-  - Sunrise
+  - Bandai Namco Pictures
   typeName: Сериал
-  url_name: Gintama_e40f9
-- description: Спешл-эпизод, включающий в себя несколько коротких комедийных историй,
-    происходящих с Сакатой Гинтоки и его нищими (впрочем, как и он сам) напарниками
-    - Шинпачи и Кагурой. Однажды весной, Гинтоки со своими друзьями отправляются любоваться
-    цветением сакуры. Однако, оказавшись на месте, они сталкиваются с Шинсенгуми,
-    заявляющими, что Гинтоки хочет занять выбранное ими место для наблюдения за сакурой.
-    Теперь, чтобы занять желаемое место, команде Гинтоки и Шинсенгуми предстоит серьёзная
-    битва друг с другом в жестокую версию игры "Камень-ножницы-бумага"...
-  episodes: null
-  franchise: gintama
-  genres:
-  - Сёнен
-  - Экшен
-  - Комедия
-  - Фантастика
-  name: 'Гинтама: Джамп Феста 2005'
-  portraitImgName: Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi.jpeg
-  releaseYear: 2005-01-01 00:00:00
-  review: 8.08
-  screenshots:
-  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_0.jpg
-  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_1.jpg
-  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_2.jpg
-  - Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_3.jpg
-  studios:
-  - Sunrise
-  typeName: Спецвыпуск
-  url_name: Gintama_Nanigoto_mo_Saisho_ga_Kanjin_nanode_Tashou_Senobisuru_Kurai_ga_Choudoyoi_aba6d
+  url_name: 3_nen_Z_gumi_Ginpachi_sensei_db4ac

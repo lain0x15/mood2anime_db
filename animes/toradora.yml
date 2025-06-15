@@ -1,83 +1,3 @@
-- description: Дополнительный эпизод аниме-сериала «Торадора!», вышедший в комплекте
-    с рождественским Blu-Ray бокс-сетом.Эпизод начинается с того, что Юсаку Китамура
-    приносит в класс огромный и аппетитный бэнто...
-  episodes: null
-  franchise: toradora
-  genres:
-  - Комедия
-  - Гурман
-  name: Торадора! Секрет приготовления бэнто
-  portraitImgName: Toradora_Bentou_no_Gokui.jpeg
-  releaseYear: 2011-01-01 00:00:00
-  review: 7.43
-  screenshots:
-  - Toradora_Bentou_no_Gokui_0.jpg
-  - Toradora_Bentou_no_Gokui_1.jpg
-  - Toradora_Bentou_no_Gokui_2.jpg
-  - Toradora_Bentou_no_Gokui_3.jpg
-  studios:
-  - J.C.Staff
-  typeName: Спецвыпуск
-  url_name: Toradora_Bentou_no_Gokui_15539
-- description: Краткий пересказ оригинального аниме-сериала «Торадора!», включённый
-    в лимитированное издание одноимённой PSP-игры.
-  episodes: null
-  franchise: toradora
-  genres:
-  - Комедия
-  - Романтика
-  name: Торадора! Рекап
-  portraitImgName: Toradora_Recap.jpeg
-  releaseYear: 2009-01-01 00:00:00
-  review: 7.42
-  screenshots:
-  - Toradora_Recap_0.jpg
-  - Toradora_Recap_1.jpg
-  - Toradora_Recap_2.jpg
-  - Toradora_Recap_3.jpg
-  studios:
-  - J.C.Staff
-  typeName: OVA
-  url_name: Toradora_Recap_a5d9c
-- description: ''
-  episodes: null
-  franchise: toradora
-  genres:
-  - Комедия
-  name: Марафон ста пятидесяти пародий от Ами
-  portraitImgName: Ami_no_Monomane_150_Renpatsu.jpeg
-  releaseYear: 2009-01-01 00:00:00
-  review: 5.46
-  screenshots:
-  - Ami_no_Monomane_150_Renpatsu_0.jpg
-  - Ami_no_Monomane_150_Renpatsu_1.jpg
-  - Ami_no_Monomane_150_Renpatsu_2.jpg
-  - Ami_no_Monomane_150_Renpatsu_3.jpg
-  studios:
-  - J.C.Staff
-  typeName: Спецвыпуск
-  url_name: Ami_no_Monomane_150_Renpatsu_237a9
-- description: Четыре коротких специальных эпизода, дополняющие аниме-сериал «Торадора!»
-    на DVD-дисках. Герои сериала изображены в забавных миниатюрных формах и общаются
-    на темы питания и еды.
-  episodes: 4
-  franchise: toradora
-  genres:
-  - Комедия
-  - Гурман
-  name: Торадора! SOS
-  portraitImgName: Toradora_SOS_Kuishinbou_Banbanzai.jpeg
-  releaseYear: 2009-01-01 00:00:00
-  review: 6.41
-  screenshots:
-  - Toradora_SOS_Kuishinbou_Banbanzai_0.jpg
-  - Toradora_SOS_Kuishinbou_Banbanzai_1.jpg
-  - Toradora_SOS_Kuishinbou_Banbanzai_2.jpg
-  - Toradora_SOS_Kuishinbou_Banbanzai_3.jpg
-  studios:
-  - J.C.Staff
-  typeName: Спецвыпуск
-  url_name: Toradora_SOS_Kuishinbou_Banbanzai_94089
 - description: В новом учебном году Рюдзи Такасу узнаёт, что оказался в классе не
     только со своим лучшим другом Юсаку Китамурой, но и с Минори Кусиэдой — девушкой,
     в которую он давно и безнадёжно влюблён. В тот же класс попадает и подруга Минори
@@ -95,15 +15,95 @@
   - Драма
   - Романтика
   name: Торадора!
-  portraitImgName: Toradora_.jpeg
+  portraitImgName: Toradora_f272b.jpeg
   releaseYear: 2008-01-01 00:00:00
   review: 8.05
   screenshots:
-  - Toradora__0.jpg
-  - Toradora__1.jpg
-  - Toradora__2.jpg
-  - Toradora__3.jpg
+  - Toradora_f272b_0.jpg
+  - Toradora_f272b_1.jpg
+  - Toradora_f272b_2.jpg
+  - Toradora_f272b_3.jpg
   studios:
   - J.C.Staff
   typeName: Сериал
   url_name: Toradora_f272b
+- description: Четыре коротких специальных эпизода, дополняющие аниме-сериал «Торадора!»
+    на DVD-дисках. Герои сериала изображены в забавных миниатюрных формах и общаются
+    на темы питания и еды.
+  episodes: 4
+  franchise: toradora
+  genres:
+  - Комедия
+  - Гурман
+  name: Торадора! SOS
+  portraitImgName: Toradora_SOS_Kuishinbou_Banbanzai_94089.jpeg
+  releaseYear: 2009-01-01 00:00:00
+  review: 6.41
+  screenshots:
+  - Toradora_SOS_Kuishinbou_Banbanzai_94089_0.jpg
+  - Toradora_SOS_Kuishinbou_Banbanzai_94089_1.jpg
+  - Toradora_SOS_Kuishinbou_Banbanzai_94089_2.jpg
+  - Toradora_SOS_Kuishinbou_Banbanzai_94089_3.jpg
+  studios:
+  - J.C.Staff
+  typeName: Спецвыпуск
+  url_name: Toradora_SOS_Kuishinbou_Banbanzai_94089
+- description: ''
+  episodes: null
+  franchise: toradora
+  genres:
+  - Комедия
+  name: Марафон ста пятидесяти пародий от Ами
+  portraitImgName: Ami_no_Monomane_150_Renpatsu_237a9.jpeg
+  releaseYear: 2009-01-01 00:00:00
+  review: 5.46
+  screenshots:
+  - Ami_no_Monomane_150_Renpatsu_237a9_0.jpg
+  - Ami_no_Monomane_150_Renpatsu_237a9_1.jpg
+  - Ami_no_Monomane_150_Renpatsu_237a9_2.jpg
+  - Ami_no_Monomane_150_Renpatsu_237a9_3.jpg
+  studios:
+  - J.C.Staff
+  typeName: Спецвыпуск
+  url_name: Ami_no_Monomane_150_Renpatsu_237a9
+- description: Краткий пересказ оригинального аниме-сериала «Торадора!», включённый
+    в лимитированное издание одноимённой PSP-игры.
+  episodes: null
+  franchise: toradora
+  genres:
+  - Комедия
+  - Романтика
+  name: Торадора! Рекап
+  portraitImgName: Toradora_Recap_a5d9c.jpeg
+  releaseYear: 2009-01-01 00:00:00
+  review: 7.42
+  screenshots:
+  - Toradora_Recap_a5d9c_0.jpg
+  - Toradora_Recap_a5d9c_1.jpg
+  - Toradora_Recap_a5d9c_2.jpg
+  - Toradora_Recap_a5d9c_3.jpg
+  studios:
+  - J.C.Staff
+  typeName: OVA
+  url_name: Toradora_Recap_a5d9c
+- description: Дополнительный эпизод аниме-сериала «Торадора!», вышедший в комплекте
+    с рождественским Blu-Ray бокс-сетом.Эпизод начинается с того, что Юсаку Китамура
+    приносит в класс огромный и аппетитный бэнто...
+  episodes: null
+  franchise: toradora
+  genres:
+  - Комедия
+  - Гурман
+  name: Торадора! Секрет приготовления бэнто
+  portraitImgName: Toradora_Bentou_no_Gokui_15539.jpeg
+  releaseYear: 2011-01-01 00:00:00
+  review: 7.43
+  screenshots:
+  - Toradora_Bentou_no_Gokui_15539_0.jpg
+  - Toradora_Bentou_no_Gokui_15539_1.jpg
+  - Toradora_Bentou_no_Gokui_15539_2.jpg
+  - Toradora_Bentou_no_Gokui_15539_3.jpg
+  studios:
+  - J.C.Staff
+  typeName: Спецвыпуск
+  url_name: Toradora_Bentou_no_Gokui_15539
